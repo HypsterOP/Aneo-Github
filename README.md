@@ -10,4 +10,5 @@ Now the fun part! First head over to [Discord Developer Portal](https://discord.
 ## Click On Add Bot
 ![Adding_Our_bot](/images/second-step.png)
 
-## Step 4sdfs
+## Now Copy The Token
+![TOKEN](/images/third-step.png)
