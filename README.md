@@ -17,6 +17,10 @@ Now the fun part! First head over to [Discord Developer Portal](https://discord.
 
 ## Now Head Over to [MongoDB](https://cloud.mongodb.com/) And Copy Your Cluster Link, MonogoDBCompass and paste it where ever it says MONGO_URL
 
+
+## Make Sure you have NodeJS installed
+Download - [NodeJs](https://nodejs.org/en)
+
 ## Now Go To Your Terminal And Type
 ```
 npm install
