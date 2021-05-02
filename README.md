@@ -10,4 +10,4 @@ Now the fun part! First head over to [Discord Developer Portal](https://discord.
 ## Click On Add Bot
 ![Adding_Our_bot](/images/second-step.png)
 
-## Step 4
+## Step 4sdfs
