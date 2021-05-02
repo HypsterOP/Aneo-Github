@@ -2,8 +2,7 @@
 Aneo is an open-source discord-bot and is easy to setup! [Invite](https://dsc.gg/aneo)
 ## Functions
 This bot has many features and works multi-guild!
-## Important
-Make Sure to Rename config.json.example to config.json
+
 ## Usage
 Now the fun part! First head over to [Discord Developer Portal](https://discord.com/developers/applications) And Make a New Application ![MakeAnApp](/images/first-step.png)
 ## Click On Bot
@@ -25,3 +24,12 @@ Download - [NodeJs](https://nodejs.org/en)
 ```
 npm install
 ```
+
+## Now Type
+```
+node .
+```
+And Your bot should be online and working!
+
+## Errors?
+If you have any errors join our server and we will guide you! - https://discord.gg/JkeaDDd4zB
