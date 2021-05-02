@@ -1,0 +1,9 @@
+{
+    "token": "TOKEN_GOES_HERE",
+    "prefix": "h!",
+    "mongo": "MONGO_URL_GOES_HERE",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "semoji": "✅",
+    "femoji": "⭕"
+}
