@@ -15,4 +15,9 @@ Now the fun part! First head over to [Discord Developer Portal](https://discord.
 ## Now Copy The Token And Paste it in the config.json
 ![TOKEN](/images/third-step.png)
 
-## Now Head Over to [MongoDB](https://cloud.mongodb.com/)
+## Now Head Over to [MongoDB](https://cloud.mongodb.com/) And Copy Your Cluster Link, MonogoDBCompass and paste it where ever it says MONGO_URL
+
+## Now Go To Your Terminal And Type
+```
+npm install
+```
